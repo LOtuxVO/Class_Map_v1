@@ -37,6 +37,6 @@ Voici comment prendre en main votre générateur en 4 étapes simples :
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-## 🌸 Keep Pushing !
+## 🌸 Allier Technique et Passion !
 > Si cet outil vous aide à gérer votre classe plus sereinement, n'hésitez pas à laisser une ⭐ sur le repo pour soutenir le projet ! 
 > | ©EdgarPullès
