@@ -5,6 +5,8 @@
 </div>
 
 ## 🎓 Le Projet
+***⚠️(J'ai réalisé une deuxième version en Java plus jolie et plus simple à utiliser)***
+
 **Class Map** (Générateur de plan de classe) est l'outil idéal pour les enseignants et les formateurs. Fini le casse-tête de la répartition des élèves ! Cette application vous permet de créer des plans de classe en quelques clics de manière aléatoire.
 
 ### 🛠️ Fonctionnalités
